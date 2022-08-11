@@ -7,15 +7,6 @@
 - 🥅 2022 Goals: Learn React
 - ⚡ Fun fact: I love playing pool and ride a motorcycle
 
-
-
-### Connect with me:
-
-[![Website]](https://www.selimgunaydin.com/)
-&nbsp;&nbsp;
-[![LinkedIn]](https://www.linkedin.com/in/selimgunaydin/)
-
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
