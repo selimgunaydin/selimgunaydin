@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-[![website](./img/globe-dark.svg)](https://www.selimgunaydin.com/)
+[![Website]](https://www.selimgunaydin.com/)
 &nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/selimgunaydin/)
+[![LinkedIn]](https://www.linkedin.com/in/selimgunaydin/)
 
 
 ### Languages and Tools:
