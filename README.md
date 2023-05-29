@@ -8,9 +8,14 @@
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-D9A93E?style=flat-square&logo=javascript&logoColor=white" />
-   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-3C6255?style=flat-square&logo=bootstrap&logoColor=white" />
-      <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-2C74B3?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img alt="" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+<img alt="" src="https://img.shields.io/badge/zustand-00000F?style=for-the-badge&logo=react-router&logoColor=white" />
+<img alt="" src="https://img.shields.io/badge/WebApi-0082C9?style=for-the-badge&logo=json&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-3C6255?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-2C74B3?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-3D1766?style=flat-square&logo=css3&logoColor=white" />
+
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-13353d?style=flat-square&logo=adobephotoshop&logoColor=white" />
   <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-FF8B13?style=flat-square&logo=adobeillustrator&logoColor=white" />
