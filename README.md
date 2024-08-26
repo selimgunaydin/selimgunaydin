@@ -23,7 +23,7 @@
 <h3>Where to find me</h3>
 <p><a href="https://github.com/selimgunaydin" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/selimgunaydin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.behance.net/selimgunaydin" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/Behance-%2312100E.svg?&style=for-the-badge&logo=behance&logoColor=white" /></a>
 <a href="https://codepen.io/selimgunaydin" target="_blank"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-%230077B5.svg?&style=for-the-badge&logo=Codepen&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/1CDYpAma25mf_gvasqWDuf4zpD8iCCTVG/view?usp=sharing" target="_blank"><img alt="CV" src="https://img.shields.io/badge/CV-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1MCQvHSNXzqAp6YbW4Ex48jcq97lLr1Qz/view?usp=sharing" target="_blank"><img alt="CV" src="https://img.shields.io/badge/CV-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" /></a>
   
 </p>
 <br/>
