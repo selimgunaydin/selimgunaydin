@@ -28,4 +28,3 @@
   
 </p>
 <br/>
-<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selimgunaydin&card_width=500&hide_border=true&layout=compact&theme=dark" />
